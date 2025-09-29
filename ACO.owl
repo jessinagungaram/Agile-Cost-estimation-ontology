@@ -27,7 +27,7 @@
 	<dcterms:issued>2025-09-29</dcterms:issued>
     <dcterms:publisher xml:lang="en">University of Mauritius</dcterms:publisher>
 	<dcterms:identifier>https://zenodo.org/records/17226034</dcterms:identifier>
-	<dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/jessinagungaram/Agile-Cost-estimation-ontology/refs/heads/main/ACO.owl"
+	<dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/jessinagungaram/Agile-Cost-estimation-ontology/refs/heads/main/ACO.owl"/>
 	</owl:Ontology>
 	 
     <!-- 
